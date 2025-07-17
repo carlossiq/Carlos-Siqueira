@@ -6,14 +6,14 @@ class SnakeGame
 {
     private static int width = 30;
     private static int height = 20;
-    static List<(int x, int y)> snake = new();
-    static (int x, int y) food;
+    static List<(int x, int y)> snake = new(); //define o corpo da cobra como uma lista de tuplas (x, y)
+    static (int x, int y) food; //define a comida como uma tupla (x, y)
     static string direction = "right";
     static bool gameOver = false;
     static int score = 0;
 
-    static Thread? inputThread;
-    static readonly object lockObj = new();
+    static Thread? inputThread; // thread para capturar a tecla do usuário
+    static readonly object lockObj = new(); // objeto de bloqueio para sincronização(impede que duas threads acessem a mesma variável ao mesmo tempo)
 
 
     static void Main()

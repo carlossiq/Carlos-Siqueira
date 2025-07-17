@@ -1,0 +1,15 @@
+D:\Portfolio\C# Projects\SnakeGame\SnakeGUI\obj\Debug\net9.0-windows\SnakeGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\C# Projects\SnakeGame\SnakeGUI\obj\Debug\net9.0-windows\SnakeGUI.AssemblyInfoInputs.cache
+D:\Portfolio\C# Projects\SnakeGame\SnakeGUI\obj\Debug\net9.0-windows\SnakeGUI.AssemblyInfo.cs
+D:\Portfolio\C# Projects\SnakeGame\SnakeGUI\obj\Debug\net9.0-windows\SnakeGUI.csproj.CoreCompileInputs.cache
+D:\Portfolio\C# Projects\SnakeGame\SnakeGUI\obj\Debug\net9.0-windows\SnakeGUI.sourcelink.json
+D:\Portfolio\C# Projects\SnakeGame\SnakeGUI\bin\Debug\net9.0-windows\SnakeGUI.exe
+D:\Portfolio\C# Projects\SnakeGame\SnakeGUI\bin\Debug\net9.0-windows\SnakeGUI.deps.json
+D:\Portfolio\C# Projects\SnakeGame\SnakeGUI\bin\Debug\net9.0-windows\SnakeGUI.runtimeconfig.json
+D:\Portfolio\C# Projects\SnakeGame\SnakeGUI\bin\Debug\net9.0-windows\SnakeGUI.dll
+D:\Portfolio\C# Projects\SnakeGame\SnakeGUI\bin\Debug\net9.0-windows\SnakeGUI.pdb
+D:\Portfolio\C# Projects\SnakeGame\SnakeGUI\obj\Debug\net9.0-windows\SnakeGUI.dll
+D:\Portfolio\C# Projects\SnakeGame\SnakeGUI\obj\Debug\net9.0-windows\refint\SnakeGUI.dll
+D:\Portfolio\C# Projects\SnakeGame\SnakeGUI\obj\Debug\net9.0-windows\SnakeGUI.pdb
+D:\Portfolio\C# Projects\SnakeGame\SnakeGUI\obj\Debug\net9.0-windows\SnakeGUI.genruntimeconfig.cache
+D:\Portfolio\C# Projects\SnakeGame\SnakeGUI\obj\Debug\net9.0-windows\ref\SnakeGUI.dll
