@@ -15,5 +15,6 @@ https://github.com/carlossiq/javascript-projects
 ## Deploys:
 
 ### Dating
-https://carlossiq.github.io/Samara/
-"This is a website generated with the help of AI, in HTML only, to ask my girlfriend to be my girlfriend. Feel free to play" 
+[🔗 Samara](https://carlossiq.github.io/Samara/)
+
+> "This is a website generated with the help of AI, in HTML only, to ask my girlfriend to be my girlfriend. Feel free to play"
