@@ -1,20 +1,22 @@
-# Carlos-Siqueira
-Professional Portfolio
+# Carlos Siqueira
+> "My Professional Portfolio with some of the projects I built throughout my degree."
 
-## Projects:
+## Projects
 
-### Projects to CS50's course (Final)
-https://github.com/carlossiq/javascript-projects
+### CS50's Final Project
+[🔗 CS50](https://github.com/carlossiq/cs50-project)
+> Harvard's CS50 final project submission.
 
-### Projects in C++:
-https://github.com/carlossiq/cplusplus-projects
+### C++
+[🔗 C++ Projects](https://github.com/carlossiq/cplusplus-projects)
+> Projects developed in C++ during my degree.
 
-### Projects in Javascript/TypeScript (only)
-https://github.com/carlossiq/javascript-projects
+### JavaScript / TypeScript
+[🔗 JS/TS Projects](https://github.com/carlossiq/javascript-projects)
+> Frontend and scripting projects in JavaScript and TypeScript.
 
-## Deploys:
+## Deployments
 
-### Dating
-[🔗 Samara](https://carlossiq.github.io/Samara/)
-
-> "This is a website generated with the help of AI, in HTML only, to ask my girlfriend to be my girlfriend. Feel free to play"
+### Interactive Web App — Samara
+[🔗 Live Demo](https://carlossiq.github.io/Samara/)
+> A fun interactive web experience built with pure HTML and AI assistance. "A website generated with the help of AI, in HTML only, to ask my girlfriend to be my girlfriend. Feel free to play"
